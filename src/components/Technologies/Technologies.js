@@ -49,7 +49,9 @@ const Technologies = () =>  (
       </ListItem>
       <ListItem>
       <picture>
-          <img src ={Azure} width="100" height="100"/>
+      <img src="../images/Personal_Website_Logos/azure.png" width="100" height="100" alt="NextJS on Netlify Banner" />
+
+          {/* <img src ={Azure} width="100" height="100"/> */}
       </picture>
         <ListContainer>
           <ListTitle>Azure</ListTitle>
