@@ -23,7 +23,7 @@ const Technologies = () =>  (
     <List>
       <ListItem>
         <picture>
-          <img src ={frontEnd} width="200" height="100"/>
+          <img src ='../images/Personal_Website_Logos/jscsshtml.png' width="200" height="100"/>
         </picture>
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
@@ -36,7 +36,7 @@ const Technologies = () =>  (
       </ListItem>
       <ListItem>
       <picture>
-          <img src ={mySql} width="200" height="100"/>
+          <img src ='../images/Personal_Website_Logos/mySql.png' width="200" height="100"/>
       </picture>
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
@@ -63,7 +63,7 @@ const Technologies = () =>  (
       </ListItem>
       <ListItem>
         <picture>
-          <img src ={python} width="100" height="100"/>
+          <img src ='../images/Personal_Website_Logos/python.png' width="100" height="100"/>
         </picture>
         <ListContainer>
           <ListTitle>Python</ListTitle>
@@ -75,7 +75,7 @@ const Technologies = () =>  (
       </ListItem>
       <ListItem>
         <picture>
-          <img src ={java} width="75" height="100"/>
+          <img src ='../images/Personal_Website_Logos/java.png' width="75" height="100"/>
         </picture>
         <ListContainer>
           <ListTitle>Java</ListTitle>
@@ -87,7 +87,7 @@ const Technologies = () =>  (
       </ListItem>
       <ListItem>
         <picture>
-          <img src ={C} width="100" height="100"/>
+          <img src ='../images/Personal_Website_Logos/C.png' width="100" height="100"/>
         </picture>
         <ListContainer>
           <ListTitle>C</ListTitle>
@@ -99,7 +99,7 @@ const Technologies = () =>  (
       </ListItem>
       <ListItem>
         <picture>
-        <img src ={R} width="100" height="100"/>
+        <img src ='../images/Personal_Website_Logos/R.png' width="100" height="100"/>
         </picture>
         <ListContainer>
           <ListTitle>R</ListTitle>
@@ -112,7 +112,7 @@ const Technologies = () =>  (
       </ListItem>
       <ListItem>
         <picture>
-        <img src ={minitab} width="100" height="100"/>
+        <img src ='../images/Personal_Website_Logos/minitab.png' width="100" height="100"/>
         </picture>
         <ListContainer>
           <ListTitle>Minitab</ListTitle>
@@ -125,7 +125,7 @@ const Technologies = () =>  (
       </ListItem>
       <ListItem>
         <picture>
-        <img src ={figma} width="100" height="100"/>
+        <img src ='../images/Personal_Website_Logos/figma.png' width="100" height="100"/>
         </picture>
         <ListContainer>
           <ListTitle>UI/UX</ListTitle>
